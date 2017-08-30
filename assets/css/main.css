@@ -1,9 +1,10 @@
 body {
     background: aqua;
+    text-align: center;
 }
 /*------------ejercicio uno float------------*/
 
-p {
+/* p {
     font-size: 1.5em;
     text-align: justify;
 }
@@ -16,4 +17,10 @@ img {
 }
 .html {
     float: right;
+} */
+
+/*-------------ejercicio dos fload-------------------*/
+p {
+    font-size: 1em;
+    text-align: justify;
 }
