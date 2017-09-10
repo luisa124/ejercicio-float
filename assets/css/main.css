@@ -20,10 +20,43 @@ img {
 } */
 
 /*-------------ejercicio dos float-------------------*/
-p {
+/* p {
     font-size: 1em;
     text-align: justify;
 }
 img {
     height: 150px;
-} 
+} */
+
+/*--------------- ejercicio tres float -------------------*/
+.caja {
+    background-color: darkmagenta;
+    width: 200px;
+    height: 200px;
+    float: left;
+    clear: both;
+    position: relative;
+    
+}
+.caja1 {
+    background-color: hotpink;
+    width: 100px;
+    height: 100px;
+    float: none;
+    clear: both;
+}
+.caja2 {
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+}
+.caja3 {
+    background-color:gold;
+    width: 100px;
+    height: 100px;
+}
+.caja4 {
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+}
