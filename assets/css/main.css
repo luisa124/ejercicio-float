@@ -79,8 +79,7 @@ img {
  */
 
 /* ejercicio float parte cuatro */
-
-*{
+/* *{
     box-sizing: border-box;
 }
 img{
@@ -91,4 +90,22 @@ img{
 div{
     width: 240px;
     border: 1px solid black;
+} */
+
+/* ejercicio float parte cinco */
+
+*{
+    box-sizing: border-box;
+}
+img{
+    height: 100px;
+    position: absolute;
+    left: 0;
+}
+
+div{
+    width: 240px;
+    border: 1px solid black;
+    position: relative;
+    padding-left: 100px;
 }
