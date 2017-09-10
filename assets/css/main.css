@@ -29,7 +29,7 @@ img {
 } */
 
 /*--------------ejercicio float parte tres-------------*/
-.caja {
+/* .caja {
     margin-top: %;
     background-color: darkmagenta;
     width: 200px;
@@ -75,4 +75,20 @@ img {
     background-color: darkcyan;
     width: 100px;
     height: 100px;
+}
+ */
+
+/* ejercicio float parte cuatro */
+
+*{
+    box-sizing: border-box;
+}
+img{
+    height: 100px;
+    float: left;
+}
+
+div{
+    width: 240px;
+    border: 1px solid black;
 }
