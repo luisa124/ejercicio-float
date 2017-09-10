@@ -30,33 +30,49 @@ img {
 
 /*--------------ejercicio float parte tres-------------*/
 .caja {
+    margin-top: %;
     background-color: darkmagenta;
     width: 200px;
     height: 200px;
-    float: left;
+    float: none;
     clear: both;
-    position: relative;
-    
 }
 .caja1 {
-    background-color: hotpink;
+    margin-top: %;
+    background-color: darkcyan;
     width: 100px;
     height: 100px;
     float: none;
     clear: both;
+    
 }
 .caja2 {
-    background-color: salmon;
+    margin-top: 2%;
+    background-color: darkcyan;
     width: 100px;
     height: 100px;
 }
 .caja3 {
-    background-color:gold;
+    margin-top: 2%;
+    background-color: darkcyan;
     width: 100px;
     height: 100px;
 }
 .caja4 {
-    background-color: greenyellow;
+    margin-top: 2%;
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+}
+.caja5 {
+    margin-top: 2%;
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+}
+.caja6 {
+    margin-top: 2%;
+    background-color: darkcyan;
     width: 100px;
     height: 100px;
 }
