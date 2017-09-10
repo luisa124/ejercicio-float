@@ -111,6 +111,17 @@ div{
 } */
 
 /* ejercicio fload parte seise */
+/* body {
+    padding: 30px;
+}
+.anterior {
+    float: left;
+}
+.siguiente {
+    float: right;
+} */
+
+/* ejercicio fload parte siete */
 body {
     padding: 30px;
 }
@@ -119,4 +130,7 @@ body {
 }
 .siguiente {
     float: right;
+}
+.clear {
+    clear: both;
 }
