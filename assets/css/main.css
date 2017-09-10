@@ -19,8 +19,11 @@ img {
     float: right;
 } */
 
-/*-------------ejercicio dos fload-------------------*/
+/*-------------ejercicio dos float-------------------*/
 p {
     font-size: 1em;
     text-align: justify;
 }
+img {
+    height: 150px;
+} 
